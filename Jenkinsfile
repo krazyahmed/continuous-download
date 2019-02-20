@@ -7,7 +7,7 @@ pipeline
 		{
 			steps
 				{
-					git 'https://github.com/selenium-saikrishna/maven.git'
+					git 'https://github.com/krazyahmed/continuous-download.git'
 				}
 		}
 		stage('ContinuousBuild-loans')
